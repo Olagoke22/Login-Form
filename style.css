@@ -171,3 +171,8 @@ input[type="submit"]:active
 {
 	opacity: 0.8;
 }
+
+.none{
+	opacity: 0;
+	visibility: hidden;
+}
